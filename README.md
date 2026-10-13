@@ -71,7 +71,6 @@ Open the `frontend` folder and open `register.html` in your browser (or use the 
 ## Screenshots
 ![Register](screenshots/register.png)
 ![Dashboard](screenshots/dashboard.png)
-![Database](screenshots/atlas.png)
-
+![Atlas](screenshots/atlas.png)
 ## Author
 Subashini S - [GitHub](https://github.com/suba-786)
